@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../../../Console2/Console/ApplicationWindow.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../Console2/Console/ApplicationWindow.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../Console2/Console/DisplayObjects">
+      <sourceFolder url="file://$MODULE_DIR$/../../../Console2/Console/DisplayObjects" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../Console2/Console/GraphicShape.cs">
+      <sourceFolder url="file://$MODULE_DIR$/../../../Console2/Console/GraphicShape.cs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../Console2/Console/Nature">
+      <sourceFolder url="file://$MODULE_DIR$/../../../Console2/Console/Nature" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../Console2/Console/Settings">
+      <sourceFolder url="file://$MODULE_DIR$/../../../Console2/Console/Settings" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../Console2/Console/Statistics">
+      <sourceFolder url="file://$MODULE_DIR$/../../../Console2/Console/Statistics" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../Console2/Console/UI">
+      <sourceFolder url="file://$MODULE_DIR$/../../../Console2/Console/UI" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../Console2/Console/Utilities">
+      <sourceFolder url="file://$MODULE_DIR$/../../../Console2/Console/Utilities" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../.." isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../packages" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,7 @@
+D:\CSharp\Genetical\obj\Debug\Genetical.csprojResolveAssemblyReference.cache
+D:\CSharp\Genetical\bin\Debug\Genetical.exe
+D:\CSharp\Genetical\bin\Debug\Genetical.pdb
+D:\CSharp\Genetical\bin\Debug\OpenTK.dll
+D:\CSharp\Genetical\bin\Debug\OpenTK.xml
+D:\CSharp\Genetical\obj\Debug\Genetical.exe
+D:\CSharp\Genetical\obj\Debug\Genetical.pdb

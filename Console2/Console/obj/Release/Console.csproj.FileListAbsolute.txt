@@ -1,0 +1,7 @@
+C:\Users\d.petrichenko\Documents\SharpDevelop Projects\Console\Console\obj\Release\Console.csprojResolveAssemblyReference.cache
+C:\Users\d.petrichenko\Documents\SharpDevelop Projects\Console\Console\bin\Release\Console.exe.config
+C:\Users\d.petrichenko\Documents\SharpDevelop Projects\Console\Console\bin\Release\Console.exe
+C:\Users\d.petrichenko\Documents\SharpDevelop Projects\Console\Console\obj\Release\Console.exe
+C:\Users\d.petrichenko\Documents\SharpDevelop Projects\Console\Console\bin\Release\OpenTK.dll
+C:\Users\d.petrichenko\Documents\SharpDevelop Projects\Console\Console\bin\Release\OpenTK.pdb
+C:\Users\d.petrichenko\Documents\SharpDevelop Projects\Console\Console\bin\Release\OpenTK.xml
